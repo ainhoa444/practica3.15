@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+}
+.blue{
+    color: blue;
+}
+p::first-line{
+    color: red;
+}
+.amarillo:hover{
+    background-color: yellow;
+    color: red;
+}
+a{
+    background-color: white;
+    color: blue;
+}
+
+a:visited{
+    background-color: blue;
+    color: white;
+}
